@@ -1,5 +1,5 @@
 const url = 'https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline'
-fetch(url)
+fetch (url)
 .then(resp => resp.json())
 .then(data => {
   let body = document.getElementById("item")
@@ -9,7 +9,7 @@ fetch(url)
 
   //loop through the array
 
-  for(let y = 0; y < data.length; y++) {
+  for(let y = 0; y < data.length; y ++) {
     let div_col = document.createElement("div")
     div_col.className = "col-md-4"
 
@@ -22,12 +22,12 @@ fetch(url)
     img.src = data[y].image_link
     img.style.width = "80%"
 
-    let card_body =document.createElement("div")
+    let card_body = document.createElement("div")
     card_body.className = "card_body"
 
     let h4 = document.createElement("h4")
     h4.className = "card-title"
-    h4.innerText = data[y].brand
+    h4.innerText = data[y].brand 
 
     let card_text = document.createElement("p")
     card_text.className = "card-text"
@@ -59,6 +59,7 @@ fetch(url)
   }
 })
 .catch((error) => console.log(error))
+  
 
     
     
