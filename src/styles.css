@@ -16,7 +16,7 @@ body {
     height:850px;
     margin: 20px 0;
     background-color: bisque;
-    box-sizing:content-box;
+    box-sizing: content-box;
 }
 
 #card-text {
