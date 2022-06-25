@@ -56,6 +56,7 @@ fetch (url)
         a.innerText = "Price"
       }
     })
+    
   }
 })
 .catch((error) => console.log(error))
