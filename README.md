@@ -17,14 +17,14 @@
         No redirection.
 
 # Authors 
-    Tracey Lung'ahi
-    (https://github.com/traceylungahi/)
+Tracey Lung'ahi
+(https://github.com/traceylungahi/)
 
 # Github Code 
-    https://github.com/traceylungahi/makeupstore-project
+https://github.com/traceylungahi/makeupstore-project
 
 # Live link
-    https://traceylungahi.github.io/makeupstore-project/
+https://traceylungahi.github.io/makeupstore-project/
 
 # License
-    [MIT](https://choosealicense.com/licences/mit/)
+[MIT](https://choosealicense.com/licences/mit/)
