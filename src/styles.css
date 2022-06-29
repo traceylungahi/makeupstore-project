@@ -17,6 +17,7 @@ body {
   margin: 20px 0;
   background-color: bisque;
   box-sizing: content-box;
+  padding: 5px; 
 }
 
 #card-text {
