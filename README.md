@@ -20,5 +20,4 @@ No redirection.
 https://github.com/traceylungahi/makeupstore-project
 
 # License
-[MIT]
-(https://choosealicense.com/licences/mit/)
+[MIT](https://choosealicense.com/licences/mit/)
