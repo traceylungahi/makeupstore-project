@@ -1,6 +1,12 @@
+document.addEventListener('DOMContentLoaded', (event) => {
+  fetchApi();
+});
+
 const url =
   "https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline";
-fetch(url)
+  function fetchApi () {
+
+  fetch(url)
   .then((resp) => resp.json())
   .then((data) => {
     let body = document.getElementById("item");
@@ -60,3 +66,4 @@ fetch(url)
     }
   })
   .catch((error) => console.log(error));
+}
