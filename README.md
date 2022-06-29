@@ -13,12 +13,11 @@
     HTML, CSS, JavaScript.
 
 # Features
-        Price tag. 
-        No redirection.
+    Price tag. 
+    No redirection.
 
 # Authors 
-Tracey Lung'ahi
-(https://github.com/traceylungahi/)
+Tracey Lung'ahi(https://github.com/traceylungahi/)
 
 # Github Code 
 https://github.com/traceylungahi/makeupstore-project
