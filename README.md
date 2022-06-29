@@ -14,10 +14,10 @@ HTML, CSS, JavaScript.
 
 # Features
 Price tag. 
-no redirection.
+No redirection.
 
 # Github Code 
-https://github.com
+https://github.com/traceylungahi/makeupstore-project
 
 # License
 [MIT]
