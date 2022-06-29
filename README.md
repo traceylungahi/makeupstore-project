@@ -19,5 +19,8 @@ No redirection.
 # Github Code 
 https://github.com/traceylungahi/makeupstore-project
 
+# Live link
+https://traceylungahi.github.io/makeupstore-project/
+
 # License
 [MIT](https://choosealicense.com/licences/mit/)
